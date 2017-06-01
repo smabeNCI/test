@@ -4,4 +4,4 @@
 
 With more information 
 
-And maybe more 
+And maybe less
